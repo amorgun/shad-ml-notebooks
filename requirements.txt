@@ -3,4 +3,5 @@ scipy
 pandas
 sklearn
 pylab
+jupyter
 
